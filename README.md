@@ -14,4 +14,6 @@
 
 #### 2. Запустите программу из командной строки (Windows) или терминала (Linux, MacOS):
 
-```$ ruby magic_8_ball.rb```
+```
+$ ruby magic_8_ball.rb
+```
